@@ -1,8 +1,13 @@
 # Faith Zettler's first CS193 Lab
 
+
+
 ## Some of my favorite things about CS193
+
 - It is led by the students for the students
 - It is not CS18000
+
+
 
 ## Things I'm going to keep until I'm a pro at GitHub
 
