@@ -1,4 +1,4 @@
-## Welcome to Faith's GitHub Pages
+# Faith Zettler's first CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -15,8 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+## Some of my favorite things about CS193
+- It is led by the students for the students
+- It is not CS18000
 
 1. Numbered
 2. List
